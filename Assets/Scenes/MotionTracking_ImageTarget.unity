@@ -700,10 +700,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0927e88222c09e49889f33c9c23c287, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RecordWatermark: 0
-  WatermarkMaterial: {fileID: 2100000, guid: d3dc0e7519d365e4bad86961b46b5b32, type: 2}
-  Cube: {fileID: 1760582420}
-  BackButton: {fileID: 114318064043759317}
 --- !u!1 &710468462
 GameObject:
   m_ObjectHideFlags: 0
@@ -3041,15 +3037,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4758729880223678, guid: 40be5343836efc449af67e54876afb62, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.09
+      value: 0.03
       objectReference: {fileID: 0}
     - target: {fileID: 4758729880223678, guid: 40be5343836efc449af67e54876afb62, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.09
+      value: 0.03
       objectReference: {fileID: 0}
     - target: {fileID: 4758729880223678, guid: 40be5343836efc449af67e54876afb62, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.09
+      value: 0.03
       objectReference: {fileID: 0}
     - target: {fileID: 4758729880223678, guid: 40be5343836efc449af67e54876afb62, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3112,17 +3108,17 @@ PrefabInstance:
     - target: {fileID: 114749822420515666, guid: 40be5343836efc449af67e54876afb62,
         type: 3}
       propertyPath: ImageFileSource.Name
-      value: StudentCard1
+      value: CartoonBoy
       objectReference: {fileID: 0}
     - target: {fileID: 114749822420515666, guid: 40be5343836efc449af67e54876afb62,
         type: 3}
       propertyPath: ImageFileSource.Path
-      value: StudentCard1.jpg
+      value: CartoonBoy.png
       objectReference: {fileID: 0}
     - target: {fileID: 114749822420515666, guid: 40be5343836efc449af67e54876afb62,
         type: 3}
       propertyPath: ImageFileSource.Scale
-      value: 0.09
+      value: 0.03
       objectReference: {fileID: 0}
     - target: {fileID: 114749822420515666, guid: 40be5343836efc449af67e54876afb62,
         type: 3}
